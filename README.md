@@ -40,6 +40,7 @@ Execute o projeto:
 
 npm run dev
 
+```
 src/
   components/
   App.jsx
@@ -47,7 +48,7 @@ src/
 public/
 package.json
 vite.config.js
-
+```
 
 📚 Sobre o Curso
 
